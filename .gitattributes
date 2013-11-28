@@ -8,6 +8,9 @@
 *.vbproj merge=union
 *.fsproj merge=union
 *.dbproj merge=union
+*.xml    merge=union
+*.mdf    merge=union
+
 
 # Standard to msysgit
 *.doc	 diff=astextplain
@@ -20,3 +23,4 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
